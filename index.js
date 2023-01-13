@@ -7,4 +7,3 @@ app.get("/", (req, res, next) => {
 });
 
 app.listen(4000);
-export default app;
